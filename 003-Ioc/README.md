@@ -11,6 +11,12 @@
 
 #### 1. Установите inversify к разрабатываемому приложению "библиотека" из модуля NDSE "Настройка окружения и Express.js" и создайте IoC-контейнер в файле `container.js`.
 
+<details>
+<summary>Какую версию проекта использовать?</summary>
+
+Вы можете использовать любую версию проекта после [подключения mongodb](https://github.com/netology-code/ndse-homeworks/tree/master/011-mongo)
+</details>
+
 #### 2. Добавьте сервис `BooksRepository` из предыдущего задания в IoC-контейнер.
 
 <details>
