@@ -13,3 +13,5 @@
 2.2 [Погружение в NestJS](006-nestjs-ext)
 
 2.3 [Подключение базы данных к NestJS](008-nestjs-db)
+
+2.5 [Валидация и обработка ошибок. Interceptors, pipes](010-nestjs-validation)
