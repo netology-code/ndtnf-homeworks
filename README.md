@@ -15,3 +15,5 @@
 2.3 [Подключение базы данных к NestJS](008-nestjs-db)
 
 2.5 [Валидация и обработка ошибок. Interceptors, pipes](010-nestjs-validation)
+
+2.6 [Аутентификация в Nest.js, passport.js. Guards](011-nestjs-authentication)
