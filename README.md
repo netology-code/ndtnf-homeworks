@@ -14,4 +14,6 @@
 
 2.3 [Подключение базы данных к NestJS](008-nestjs-db)
 
+2.4 [Потоки RxJs](009-rxjs)
+
 2.5 [Валидация и обработка ошибок. Interceptors, pipes](010-nestjs-validation)
