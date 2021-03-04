@@ -17,3 +17,5 @@
 2.4 [Потоки RxJs](009-rxjs)
 
 2.5 [Валидация и обработка ошибок. Interceptors, pipes](010-nestjs-validation)
+
+2.6 [Аутентификация в Nest.js, passport.js. Guards](011-nestjs-authentication)
