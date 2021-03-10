@@ -15,6 +15,6 @@
 
 **Выполните следующие задания:**
 * Сделайте обращение к api github, как в примере на лекции, с использованием RxJs
-* С использованием RxJs сделайте запросы к любому общедоступному api (например, аналогичное с github api [Gitlab](https://docs.gitlab.com/ee/api/README.html#api-request-to-expose-http-response-headers))
+* С использованием RxJs сделайте запросы к любому общедоступному api (например, аналогичное с github api [Gitlab](https://docs.gitlab.com/ee/api/README.html#basic-usage))
 
 так же стартовый пакет можно взять [здесь](https://github.com/denizen24/rxjs-ts-starter)
