@@ -10,7 +10,7 @@
 
 2.1 [Nest.js - фреймворк на typescript](005-nestjs)
 
-2.2 [Погружение в NestJS](006-nestjs-ext)
+2.2 [Инверсия зависимостей,провайдеры, middleware в NestJS](006-nestjs-ext)
 
 2.3 [Подключение базы данных к NestJS](008-nestjs-db)
 
