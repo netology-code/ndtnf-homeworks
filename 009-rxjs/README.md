@@ -14,13 +14,13 @@
 Разверните данный стартовый проект у себя на локальной машине.
 
 **Выполните следующие задания:**
-* Сделайте обращение к api github, как в примере на лекции, с использованием RxJs 
+* Сделайте обращение к api github, как в примере на лекции, с использованием RxJs. 
 ```sh
 https://api.github.com/search/repositories?q=${текст запроса}
 ```
-* С использованием RxJs сделайте запросы к любому общедоступному api (например, аналогичное с github api [Gitlab](https://docs.gitlab.com/ee/api/README.html#basic-usage))
+* С использованием RxJs сделайте запросы к любому общедоступному api (например, аналогичное с github api [Gitlab](https://docs.gitlab.com/ee/api/README.html#basic-usage)).
 ```sh
 https://gitlab.com/api/v4/projects?search=${текст запроса}
 ```
 
-так же стартовый пакет можно взять [здесь](https://github.com/denizen24/rxjs-ts-starter)
+Также стартовый пакет можно взять [здесь](https://github.com/denizen24/rxjs-ts-starter)
