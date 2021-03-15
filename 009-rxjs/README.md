@@ -23,4 +23,4 @@ https://api.github.com/search/repositories?q=${текст запроса}
 https://gitlab.com/api/v4/projects?search=${текст запроса}
 ```
 
-Также стартовый пакет можно взять [здесь](https://github.com/denizen24/rxjs-ts-starter)
+Также стартовый пакет можно взять [здесь](https://github.com/denizen24/rxjs-ts-starter).
