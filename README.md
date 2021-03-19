@@ -19,3 +19,5 @@
 2.5 [Валидация и обработка ошибок. Interceptors, pipes](010-nestjs-validation)
 
 2.6 [Аутентификация в Nest.js, passport.js. Guards](011-nestjs-authentication)
+
+2.7 [Тестирование. Библиотека JEST. Unit-тесты, интеграционные и приемочные тесты](012-Test-Jest)
