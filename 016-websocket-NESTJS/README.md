@@ -15,5 +15,27 @@
 
 **Задание 2**
 
-Существующий функционал для обсуждения книги в комментариях, переписать на NESTJS с использованием [**@nestjs/websockets**](https://docs.nestjs.com/websockets/gateways)
+Создать модуль для работы с комментариями
 
+- Создать модель BookCommentModel
+
+- Создать сервис BookCommentsService для работы с BookCommentModel
+
+- модель BookCommentModel должна хранить: 
+
+```js
+id: number
+bookId: number
+userId: number
+comment: string
+```
+
+
+**Задание 3**
+
+Создать модуль для работы с комментариями через WebSocket
+- Создать класс Gateway
+- Подключить Gateway к приложению
+- Подключить BookCommentsService к Gateway
+- Добавить обработчик getAllComments, который получает id книги и возвращает список всех комментариев
+- Добавить обработчик addComment, который получает текст комментария и сохраняет его
