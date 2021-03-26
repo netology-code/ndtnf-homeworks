@@ -7,8 +7,6 @@
 * Во время проверки по частям ваша домашняя работа будет со статусом «На доработке».
 * Любые вопросы по решению задач задавайте в Slack.
 
-**Возьмите решение из домашнего задания ["2.8 Протокол websocket. Библиотека socket.io"](https://github.com/netology-code/ndse-homeworks/tree/master/013-websocket).**
-
 **Задание 1**
 
 Установить пакет @nestjs/websockets.
@@ -24,9 +22,9 @@
 - модель BookCommentModel должна хранить: 
 
 ```js
-id: number
-bookId: number
-userId: number
+id: ObjectId
+bookId: ObjectId
+userId: ObjectId
 comment: string
 ```
 
