@@ -22,6 +22,8 @@
 
 2.7 [Тестирование. Библиотека JEST](012-Test-Jest)
 
+2.8 [Вебсокеты в NESTJS](016-websocket-NESTJS)
+
 3.1 [Cloud Firestore, Realtime Database](013-Cloud-Firestore_Realtime-Database)
 
 3.2 [Cloud Functions, Hosting](014-Cloud-Functions_Hosting)
