@@ -20,14 +20,18 @@
 - Создать модель BookCommentModel
 
 - Создать сервис BookCommentsService для работы с BookCommentModel
+  
+- Реализовать CRUD для работы BookCommentModel и метод findAllBookComment(bookId)
 
 - модель BookCommentModel должна хранить: 
 
 ```js
-id: number
-bookId: number
-userId: number
-comment: string
+{
+    id: "number"
+    bookId: "number"
+    comment: "string"  
+}
+
 ```
 
 
