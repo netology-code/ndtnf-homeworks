@@ -17,7 +17,7 @@
 
 **Задание 3**
 
-Реализуйте функционал из домашнего задания использовав **Cloud Functions** и опубликуйте Cloud Functions на Firebase Hosting
+Реализуйте функционал из домашнего задания [«3.1 Cloud Firestore, Realtime Database»](https://github.com/netology-code/ndtnf-homeworks/tree/master/013-Cloud-Firestore_Realtime-Database) использовав **Cloud Functions** и опубликуйте Cloud Functions на Firebase Hosting
 
 **для публикации потребуется сменить тарифный на план **Blaze***
 

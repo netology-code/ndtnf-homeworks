@@ -13,14 +13,18 @@
 
 **Задание 2**
 
-Возьмите за основу решение из домашнего задания [«2.6 Подключение MongoDB в Node.js приложение».](https://github.com/netology-code/ndse-homeworks/tree/master/011-mongo)  
+Создайте новый проект NestJS
+> Можно взять за основу решение из домашнего задания [«2.3 Подключение базы данных к NestJS (модуль для MongoDB)»](https://github.com/netology-code/ndtnf-homeworks/tree/master/008-nestjs-db)  
+
+
+
 Установите пакет [firebase-admin](https://firebase.google.com/docs/admin/setup#prerequisites) и проинициализируйте его связав со своим приложением **Firebase**
 
 **Задание 3**
 
 Ознакомитесь с документацией  [Cloud Firestore](https://firebase.google.com/docs/firestore), [Realtime Database](https://firebase.google.com/docs/database) и выбрать один из инструментов в качестве основного.
 
-Перепишите приложение с использование выбранного инструмента сохранив всю ранее описаную бизнес логику   
+Перепишите приложение с использование выбранного инструмента реализовав описаную бизнес логику   
 
 метод | url | действие | комментарий
 --- | --- | ---  | ---
