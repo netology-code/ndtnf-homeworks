@@ -9,22 +9,22 @@
 
 **Задание 1**
 
-Зарегистрируйте акаунт [Firebase](https://firebase.google.com/) и создайте новый проект. 
+Зарегистрируйте аккаунт [Firebase](https://firebase.google.com/) и создайте новый проект. 
 
 **Задание 2**
 
-Создайте новый проект NestJS
+Создайте новый проект NestJS.
 > Можно взять за основу решение из домашнего задания [«2.3 Подключение базы данных к NestJS (модуль для MongoDB)»](https://github.com/netology-code/ndtnf-homeworks/tree/master/008-nestjs-db)  
 
 
 
-Установите пакет [firebase-admin](https://firebase.google.com/docs/admin/setup#prerequisites) и проинициализируйте его, связав со своим приложением **Firebase**
+Установите пакет [firebase-admin](https://firebase.google.com/docs/admin/setup#prerequisites) и проинициализируйте его, связав со своим приложением **Firebase**.
 
 **Задание 3**
 
 Ознакомьтесь с документацией  [Cloud Firestore](https://firebase.google.com/docs/firestore), [Realtime Database](https://firebase.google.com/docs/database) и выберите один из инструментов в качестве основного.
 
-Перепишите приложение с использование выбранного инструмента реализовав описаную бизнес-логику   
+Перепишите приложение с использование выбранного инструмента реализовав описаную бизнес-логику.   
 
 метод | url | действие | комментарий
 --- | --- | ---  | ---
