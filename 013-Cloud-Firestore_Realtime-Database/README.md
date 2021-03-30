@@ -18,13 +18,13 @@
 
 
 
-Установите пакет [firebase-admin](https://firebase.google.com/docs/admin/setup#prerequisites) и проинициализируйте его связав со своим приложением **Firebase**
+Установите пакет [firebase-admin](https://firebase.google.com/docs/admin/setup#prerequisites) и проинициализируйте его, связав со своим приложением **Firebase**
 
 **Задание 3**
 
-Ознакомитесь с документацией  [Cloud Firestore](https://firebase.google.com/docs/firestore), [Realtime Database](https://firebase.google.com/docs/database) и выбрать один из инструментов в качестве основного.
+Ознакомьтесь с документацией  [Cloud Firestore](https://firebase.google.com/docs/firestore), [Realtime Database](https://firebase.google.com/docs/database) и выберите один из инструментов в качестве основного.
 
-Перепишите приложение с использование выбранного инструмента реализовав описаную бизнес логику   
+Перепишите приложение с использование выбранного инструмента реализовав описаную бизнес-логику   
 
 метод | url | действие | комментарий
 --- | --- | ---  | ---
