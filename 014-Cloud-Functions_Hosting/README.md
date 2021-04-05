@@ -17,11 +17,11 @@
 
 **Задание 3**
 
-Реализуйте функционал из домашнего задания [«3.1 Cloud Firestore, Realtime Database»](https://github.com/netology-code/ndtnf-homeworks/tree/master/013-Cloud-Firestore_Realtime-Database), использовав **Cloud Functions** и опубликуйте Cloud Functions на Firebase Hosting.
+Реализуйте функционал из домашнего задания [«3.1 Cloud Firestore, Realtime Database»](https://github.com/netology-code/ndtnf-homeworks/tree/master/013-Cloud-Firestore_Realtime-Database), использовав **Cloud Functions**, и опубликуйте Cloud Functions на Firebase Hosting.
 
 **для публикации потребуется сменить тарифный на план **Blaze***
 
 **Задание 4**
 
-Создайте Cloud Functions  **«moderator»**, которая будет следить за состоянием поля **«description»**, если оно оказывается пустым, 
+Создайте Cloud Functions  **«moderator»**, которая будет следить за состоянием поля **«description»**. Если оно оказывается пустым, 
 функция должна заполнить его значением: **«Скоро здесь будет описание…»**
