@@ -9,11 +9,11 @@
 
 **Задание 1**
 
-Ознакомитесь с документацией [Firebase Authentication](https://firebase.google.com/docs/auth)
+Ознакомьтесь с документацией [Firebase Authentication](https://firebase.google.com/docs/auth).
 
 **Задание 2**
 
-Используя **NestJS** или **Cloud Functions** реализуйте следующие роуты с использованием **admin.auth()**:
+Используя **NestJS** или **Cloud Functions**, реализуйте следующие роуты с использованием **admin.auth()**:
 
 метод | url | действие 
 --- | --- | --- 
