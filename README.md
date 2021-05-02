@@ -1,6 +1,8 @@
 # Домашние задания по курсу «NDTNF - TypeScript, Nest.js, Firebase
 
-1.1 [Начало работы с Typescript, eslint](001-TypeScript)
+## Блок 1: TypeScript
+
+1.1 [Начало работы с TypeScript, ESLint](001-TypeScript)
 
 1.2 [Система типов TypeScript. ООП. SOLID](002-TypeScript)
 
@@ -8,7 +10,9 @@
 
 1.4 [TS - перенос и интеграция JS проекта](004-Migrate%20to%20Typescript)
 
-2.1 [Nest.js - фреймворк на typescript](005-nestjs)
+## Блок 2: NestJS
+
+2.1 [NestJS - фреймворк на TypeScript](005-nestjs)
 
 2.2 [Инверсия зависимостей,провайдеры, middleware в NestJS](006-nestjs-ext)
 
@@ -18,11 +22,13 @@
 
 2.5 [Валидация и обработка ошибок. Interceptors, pipes](010-nestjs-validation)
 
-2.6 [Аутентификация в Nest.js, passport.js. Guards](011-nestjs-authentication)
+2.6 [Аутентификация в NestJS, passport.js. Guards](011-nestjs-authentication)
 
 2.7 [Тестирование. Библиотека JEST](012-Test-Jest)
 
-2.8 [Вебсокеты в NESTJS](016-websocket-NESTJS)
+2.8 [Вебсокеты в NestJS](016-websocket-NESTJS)
+
+## Блок 3: Firebase
 
 3.1 [Cloud Firestore, Realtime Database](013-Cloud-Firestore_Realtime-Database)
 
