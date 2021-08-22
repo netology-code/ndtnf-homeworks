@@ -36,5 +36,3 @@
 
 3.3 [Firebase Authentication](015-Firebase-Authentication)
 
-👓
-👼
