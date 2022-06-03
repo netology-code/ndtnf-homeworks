@@ -38,7 +38,7 @@
 ```
 
 
-**Задание 3***
+**Задание 3*** (необязательное)
 
 * Ознакомьтесь с документацией [Managed Service for MongoDB](https://cloud.yandex.ru/docs/managed-mongodb/quickstart) и [Managed Service for PostgreSQL](https://cloud.yandex.ru/docs/managed-postgresql/quickstart?utm_source=console). 
 * Выберите один из этих инструментов в качестве основного. 
