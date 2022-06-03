@@ -9,11 +9,11 @@
 
 **Задание 1**
 
-Ознакомьтесь с документацией [Yandex Cloud Functions](https://cloud.yandex.ru/docs/functions/) 
+Ознакомьтесь с документацией [Yandex Cloud Functions](https://cloud.yandex.ru/docs/functions/).
 
 **Задание 2**
 
-Используя Cloud Functions, реализовав описанную бизнес-логику:   
+Используя Cloud Functions, реализуйте описанную бизнес-логику:   
 
 метод | url | действие | комментарий
 --- | --- | ---  | ---
@@ -38,11 +38,9 @@
 ```
 
 
-**Задание 4***
+**Задание 3***
 
-Ознакомьтесь с документацией 
-[Managed Service for MongoDB](https://cloud.yandex.ru/docs/managed-mongodb/quickstart), 
-[Managed Service for PostgreSQL](https://cloud.yandex.ru/docs/managed-postgresql/quickstart?utm_source=console) 
-и выберите один из инструментов в качестве основного. 
-Создайте кластер выбранной БД и реализуйте хранение данных и персонажах в БД.
+* Ознакомьтесь с документацией [Managed Service for MongoDB](https://cloud.yandex.ru/docs/managed-mongodb/quickstart) и [Managed Service for PostgreSQL](https://cloud.yandex.ru/docs/managed-postgresql/quickstart?utm_source=console). 
+* Выберите один из этих инструментов в качестве основного. 
+* Создайте кластер выбранной БД и реализуйте хранение данных и персонажах в БД.
 
