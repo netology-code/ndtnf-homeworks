@@ -15,7 +15,7 @@
 
 **Задание 2.**
 
-Изучите инструкцию [Passport-Yandex](https://www.passportjs.org/packages/passport-yandex/).
+Изучите инструкцию по использованию [Passport-Yandex](https://www.passportjs.org/packages/passport-yandex/).
 
 **Задание 3.**
 
