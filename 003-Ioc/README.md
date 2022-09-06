@@ -14,7 +14,7 @@
 <details>
 <summary>Какую версию проекта использовать?</summary>
 
-Вы можете использовать любую версию проекта после [подключения mongodb](https://github.com/netology-code/ndse-homeworks/tree/master/011-mongo)
+Вы можете использовать любую версию проекта после [подключения mongodb](https://github.com/netology-code/ndse-homeworks/tree/master/011-mongo).
 </details>
 
 #### 2. Добавьте сервис `BooksRepository` из предыдущего задания в IoC-контейнер.
@@ -22,7 +22,7 @@
 <details>
 <summary>Как должно выглядеть добавление:</summary>
   
-Сервис должен подключиться `.toSelf()` без использования дополнительного контракта
+Сервис должен подключиться `.toSelf()` без использования дополнительного контракта.
 
 ```ts
 container.bind(BooksRepository).toSelf()
