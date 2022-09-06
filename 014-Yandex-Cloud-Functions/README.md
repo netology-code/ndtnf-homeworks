@@ -11,7 +11,7 @@
 
 **Задание 1.**
 
-Изучите инструкцию [Yandex Cloud Functions](https://cloud.yandex.ru/docs/functions/).
+Изучите инструкцию, как начать работать с [Yandex Cloud Functions](https://cloud.yandex.ru/docs/functions/).
 
 **Задание 2.**
 
@@ -40,7 +40,7 @@
 ```
 
 
-**Задание 3.** (необязательное)
+**Задание 3** (необязательное).
 
 * Изучите инструкции, как начать работать с инструментами [Managed Service for MongoDB](https://cloud.yandex.ru/docs/managed-mongodb/quickstart) и [Managed Service for PostgreSQL](https://cloud.yandex.ru/docs/managed-postgresql/quickstart?utm_source=console). 
 * Выберите один из этих инструментов в качестве основного. 
