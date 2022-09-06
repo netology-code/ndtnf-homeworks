@@ -26,10 +26,10 @@
 
 Разместите статический веб-сайт в Object Storage, для этого:
 
-1. [Подготовьте облако к работе.](https://cloud.yandex.ru/docs/tutorials/web/static#before-you-begin).
-1. [Создайте публичный бакет.](https://cloud.yandex.ru/docs/tutorials/web/static#create-public-bucket).
-1. [Включите веб-сайт для бакета.](https://cloud.yandex.ru/docs/tutorials/web/static#turn-on-hosting).
-1. [Загрузите файлы веб-сайта.](https://cloud.yandex.ru/docs/tutorials/web/static#upload-files).
-1. [Проверьте работу сайта.](https://cloud.yandex.ru/docs/tutorials/web/static#test-site).
+1. [Подготовьте облако к работе.](https://cloud.yandex.ru/docs/tutorials/web/static#before-you-begin)
+1. [Создайте публичный бакет.](https://cloud.yandex.ru/docs/tutorials/web/static#create-public-bucket)
+1. [Включите веб-сайт для бакета.](https://cloud.yandex.ru/docs/tutorials/web/static#turn-on-hosting)
+1. [Загрузите файлы веб-сайта.](https://cloud.yandex.ru/docs/tutorials/web/static#upload-files)
+1. [Проверьте работу сайта.](https://cloud.yandex.ru/docs/tutorials/web/static#test-site)
 
 > Используйте для публикации готовое [приложение](app).
