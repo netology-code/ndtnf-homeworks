@@ -20,7 +20,7 @@
 метод | url | действие | комментарий
 --- | --- | ---  | ---
 `GET` | `/api/characters` | получить всех персонажей | получаем массив всех персонажей
-`GET` | `/api/character?id=1` | получить персонажа по **id** | получаем объект персонажа, если запись не найдено вернем **Code: 404** 
+`GET` | `/api/character?id=1` | получить персонажа по **id** | получаем объект персонажа, если запись «не найдено», вернём **Code: 404** 
 
 Структура объекта персонажа:
 ```json
@@ -40,9 +40,9 @@
 ```
 
 
-**Задание 3.*** (необязательное)
+**Задание 3.** (необязательное)
 
-* Ознакомьтесь с документацией [Managed Service for MongoDB](https://cloud.yandex.ru/docs/managed-mongodb/quickstart) и [Managed Service for PostgreSQL](https://cloud.yandex.ru/docs/managed-postgresql/quickstart?utm_source=console). 
+* Изучите инструкции, как начать работать с инструментами [Managed Service for MongoDB](https://cloud.yandex.ru/docs/managed-mongodb/quickstart) и [Managed Service for PostgreSQL](https://cloud.yandex.ru/docs/managed-postgresql/quickstart?utm_source=console). 
 * Выберите один из этих инструментов в качестве основного. 
 * Создайте кластер выбранной БД и реализуйте хранение данных и персонажах в БД.
 
