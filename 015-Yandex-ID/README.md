@@ -11,7 +11,7 @@
 
 **Задание 1.**
 
-Изучите инструкцию, как начать работать с OAuth в Яндексе [Протокол OAuth 2.0](https://yandex.ru/dev/id/doc/dg/oauth/concepts/about.html).
+Изучите инструкцию, как начать работать с OAuth в Яндексе: [Протокол OAuth 2.0](https://yandex.ru/dev/id/doc/dg/oauth/concepts/about.html).
 
 **Задание 2.**
 
