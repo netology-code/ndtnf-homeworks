@@ -24,7 +24,7 @@ https://api.github.com/search/repositories?q=${текст запроса}
 
 **Задание 2.**
 
-С использованием RxJS сделайте запросы к любому общедоступному api (например, аналогичное с github api [Gitlab](https://docs.gitlab.com/ee/api/README.html#basic-usage)).
+С использованием RxJS сделайте запросы к любому общедоступному API (например, аналогичное с GitHub API [Gitlab](https://docs.gitlab.com/ee/api/README.html#basic-usage)).
 ```sh
 https://gitlab.com/api/v4/projects?search=${текст запроса}
 ```
