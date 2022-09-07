@@ -17,7 +17,7 @@
 
 **Задание 2.**
 
-Напишите unit тесты на BooksService.
+Напишите unit-тесты на BooksService.
 
 При написании теста используйте утилиты из @nestjs/testing.
 
