@@ -24,7 +24,7 @@
 
 **Задание 3.**
 
-Разместите статический веб-сайт в Object Storage, для этого:
+Разместите статический веб-сайт в Object Storage. Для этого выполните действия:
 
 1. [Подготовьте облако к работе.](https://cloud.yandex.ru/docs/tutorials/web/static#before-you-begin)
 1. [Создайте публичный бакет.](https://cloud.yandex.ru/docs/tutorials/web/static#create-public-bucket)
