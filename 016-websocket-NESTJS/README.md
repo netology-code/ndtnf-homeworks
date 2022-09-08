@@ -19,9 +19,9 @@
 
 Создайте модуль для работы с комментариями.
 
-- Создайте модель BookCommentModel.
-- Создайте сервис BookCommentsService для работы с BookCommentModel.
-- Реализуйте CRUD для работы BookCommentModel и метод findAllBookComment(bookId).
+1. Создайте модель BookCommentModel.
+2. Создайте сервис BookCommentsService для работы с BookCommentModel.
+3. Реализуйте CRUD для работы BookCommentModel и метод findAllBookComment(bookId).
 
 Модель BookCommentModel должна хранить: 
 
@@ -38,8 +38,8 @@
 **Задание 3.**
 
 Создайте модуль для работы с комментариями через WebSocket.
-- Создайте класс Gateway.
-- Подключите Gateway к приложению.
-- Подключите BookCommentsService к Gateway.
-- Добавьте обработчик getAllComments, который получает ID книги и возвращает список всех комментариев.
-- Добавьте обработчик addComment, который получает текст комментария и сохраняет его.
+1. Создайте класс Gateway.
+2. Подключите Gateway к приложению.
+3. Подключите BookCommentsService к Gateway.
+4. Добавьте обработчик getAllComments, который получает ID книги и возвращает список всех комментариев.
+5. Добавьте обработчик addComment, который получает текст комментария и сохраняет его.
