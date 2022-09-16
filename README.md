@@ -1,4 +1,4 @@
-# Домашние задания по курсу «NDTNF - TypeScript, Nest.js, Firebase
+# Домашние задания по курсу «NDTNF - TypeScript, Nest.js, Yandex Cloud
 
 ## Блок 1: TypeScript
 
@@ -28,13 +28,13 @@
 
 2.8 [Вебсокеты в NestJS](016-websocket-NESTJS)
 
-## Блок 3: Firebase
+## Блок 3: Yandex Cloud
 
-3.1 [Cloud Firestore, Realtime Database](013-Cloud-Firestore_Realtime-Database)
+3.1 [Yandex Cloud. Object Storage](013-Yandex-Cloud_Object-Storage)
 
-3.2 [Cloud Functions, Hosting](014-Cloud-Functions_Hosting)
+3.2 [Yandex Cloud Functions](014-Yandex-Cloud-Functions)
 
-3.3 [Firebase Authentication](015-Firebase-Authentication)
+3.3 [Yandex ID](015-Yandex-ID)
 
 👓
 👼
