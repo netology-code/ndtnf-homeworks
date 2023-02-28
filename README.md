@@ -24,7 +24,7 @@
 
 2.6 [Аутентификация в Nest.js, Passport.js. Guards](011-nestjs-authentication)
 
-2.7 [Тестирование. Библиотека JEST](012-Test-Jest)
+2.7 [Тестирование. Библиотека Jest](012-Test-Jest)
 
 2.8 [Вебсокеты в Nest.js](016-websocket-NESTJS)
 
