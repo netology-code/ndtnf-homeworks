@@ -10,9 +10,9 @@
 
 1.4 [Перенос и интеграция JavaScript проекта на TypeScript](004-Migrate%20to%20Typescript)
 
-## Блок 2: NestJS
+## Блок 2: Nest.js
 
-2.1 [NestJS - фреймворк на TypeScript](005-nestjs)
+2.1 [Nest.js - фреймворк на TypeScript](005-nestjs)
 
 2.2 [Погружение в Nest.js](006-nestjs-ext)
 
@@ -22,11 +22,11 @@
 
 2.5 [Валидация и обработка ошибок. Interceptors, pipes](010-nestjs-validation)
 
-2.6 [Аутентификация в NestJS, passport.js. Guards](011-nestjs-authentication)
+2.6 [Аутентификация в Nest.js, Passport.js. Guards](011-nestjs-authentication)
 
 2.7 [Тестирование. Библиотека JEST](012-Test-Jest)
 
-2.8 [Вебсокеты в NestJS](016-websocket-NESTJS)
+2.8 [Вебсокеты в Nest.js](016-websocket-NESTJS)
 
 ## Блок 3: Yandex Cloud
 
