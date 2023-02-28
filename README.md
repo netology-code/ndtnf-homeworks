@@ -4,7 +4,7 @@
 
 1.1 [Node.js и TypeSсript. Инструментарий tsc и ESLint](001-TypeScript)
 
-1.2 [Система типов TypeScript. ООП. SOLID](002-TypeScript)
+1.2 [Система типов TypeScript](002-TypeScript)
 
 1.3 [IoС и DI. Библиотека reflect-metadata](003-Ioc)
 
