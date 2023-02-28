@@ -34,7 +34,7 @@
 
 3.2 [Yandex Cloud Functions](014-Yandex-Cloud-Functions)
 
-3.3 [Yandex ID](015-Yandex-ID)
+3.3 [API Yandex ID](015-Yandex-ID)
 
 👓
 👼
