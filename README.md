@@ -2,7 +2,7 @@
 
 ## Блок 1: TypeScript
 
-1.1 [Начало работы с TypeScript, ESLint](001-TypeScript)
+1.1 [Node.js и TypeSсript. Инструментарий tsc и ESLint](001-TypeScript)
 
 1.2 [Система типов TypeScript. ООП. SOLID](002-TypeScript)
 
