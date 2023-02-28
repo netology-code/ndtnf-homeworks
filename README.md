@@ -8,7 +8,7 @@
 
 1.3 [IoС и DI. Библиотека reflect-metadata](003-Ioc)
 
-1.4 [TS - перенос и интеграция JS проекта](004-Migrate%20to%20Typescript)
+1.4 [Перенос и интеграция JavaScript проекта на TypeScript](004-Migrate%20to%20Typescript)
 
 ## Блок 2: NestJS
 
