@@ -67,7 +67,7 @@
         },
         methods: {
             fetchCharacters: function () {
-                return fetch(`https://netology-api-marvel.herokuapp.com/characters`)
+                return fetch(`https://bravevillainousexponents.dbronskih.repl.co/characters`)
                     .then(response => response.json())
                     .then(json => this.characters = json)
             },
