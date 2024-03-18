@@ -1,0 +1,43 @@
+<%- include('../port/layout-start', {title: title}) %>
+
+<h1><%= title%></h1>
+
+<a href="books/create" class="btn btn-sm btn-primary">Добавить запись</a>
+
+<% if(books.length > 0){%>
+  <table class="table-striped table-sm mt-4">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Название</th>
+        <th scope="col">Описание</th>
+        <th scope="col">Автор</th>
+      </tr>
+    </thead>
+    <tbody>
+      <% books.map((book, idx) => {%>
+        <tr>
+          <th scope="row"><%= idx +1 %></th>
+          <td><%= book.title%></td>
+          <td class="text-right">
+            <a href="/books/<%= book.id %>" class="btn btn-sm btn-sucess">
+              <i class="fa fa-eye" aria-hidden="true"></i>
+            </a>
+            <a href="/books/update/<%= book.id %>" class="btn btn-sm btn-primary">
+              <i class="fa fa-pencil" aria-hidden="true"></i>
+            </a>
+            <form action="/books/delete/<%= book.id %>" method="post">
+              <button class="btn btn-sm btn-danger" aria-hidden="true">
+                <i class="fa fa-trash" aria-hidden="true"></i>
+              </button>
+            </form>
+          </td>
+        </tr>
+      <% }) %>
+
+    </tbody>
+  </table>
+<% } else { %>
+  <h3>Записи отсутствуют</h3>
+<% } %>
+<%- include('../port/layout-end') %>
