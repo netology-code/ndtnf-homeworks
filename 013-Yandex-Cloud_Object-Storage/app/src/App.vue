@@ -67,7 +67,7 @@
         },
         methods: {
             fetchCharacters: function () {
-                return fetch(`https://bravevillainousexponents.dbronskih.repl.co/characters`)
+                return fetch(`https://b2816a0c6b23347d.mokky.dev/characters`)
                     .then(response => response.json())
                     .then(json => this.characters = json)
             },
