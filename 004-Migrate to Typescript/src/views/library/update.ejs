@@ -1,0 +1,10 @@
+<%- include('../port/layout-start', {title: title}) %>
+
+<h1><%= title%></h1>
+<div class="row">
+  <div class="col-sm-8">
+    <%- include('./form'), {book: book} %>
+  </div>
+</div>
+
+<%- include('../port/layout-end') %>

@@ -1,0 +1,25 @@
+<%- include('../port/layout-start', {title: title}) %>
+
+<h1><%= title%></h1>
+<div class="row">
+  <div class="col-sm-8">
+    <div class="card">
+      <div class="card-body">
+        <h3 class="card-title"><%= book.title%></h3>
+        <p class="card-text"><%= book.desk%></p>
+        <div class="text-right">
+          <a href="/book/update/<%= book.id%>" class="btn btn-sm btn-danger">
+            <i class="fa fa-pencil" aria-hidden="true"></i>
+          </a>
+          <form action="/books/delete/<%= book.id %>">
+            <button class="btn btn-sm btn-danger">
+              <i class="fa fa-trash" aria-hidden="true"></i>
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<%- include('../port/layout-end') %>
