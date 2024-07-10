@@ -1,0 +1,21 @@
+{
+  "name": "002-typescript",
+  "version": "1.0.0",
+  "description": "**Правила выполнения домашней работы.** \r * Выполняйте домашнее задание в отдельной ветке проекта на GitHub.\r * В поле для сдачи работы прикрепите ссылку на ваш проект в Git.\r * На проверку можно отправить как все задачи вместе, так и каждую задачу по отдельности. \r * Во время проверки вашей домашней работы по частям будет стоять статус «На доработке».\r * Любые вопросы по решению задач можете задавать в чате учебной группы.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --project ./tsconfig.json --watch",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "esLint": "eslint --cache --ext .js,.jsx,.ts,.tsx src",
+    "esLint:dump": "eslint --print-config ./.eslintrc.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^7.1.1",
+    "@typescript-eslint/parser": "^7.1.1",
+    "eslint": "^8.57.0",
+    "typescript": "^5.3.3"
+  }
+}
