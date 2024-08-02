@@ -7,7 +7,6 @@ export class RxjsService {
   private readonly githubURL = "https://xeno-canto.org/api/2/recordings?query=";
 
   private getGithub(q: string, count: number): Observable<any> {
-    console.log(`Fetching data from URL: ${this.githubURL}${q}`); 
     return from(axios.get(`${this.githubURL}${q}`)).pipe(
       map((res: any) => {
         console.log('API Response:', res.data); 
@@ -26,7 +25,6 @@ export class RxjsService {
     if (!q) {
       throw new Error('Query parameter "q" is required');
     }
-    console.log(`Searching for: ${q}`);
     const data$ = this.getGithub(q, 10).pipe(toArray());
     try {
       const result = await firstValueFrom(data$);
